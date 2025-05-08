@@ -3,6 +3,7 @@
 A comprehensive Power BI dashboard designed to track personal income, expenses, and spending habits with clear visualizations and insightful analytics.
 
 ##Key Features
+
 _Overview Section
 
 Credit Balance & Checking Balance
@@ -11,7 +12,7 @@ Current vs Previous Month Income & Spending
 
 Month-over-Month Comparison with percentage change indicators
 
-🗕️ Month-by-Month Breakdown
+🗕️Month-by-Month Breakdown
 
 Bar charts showing monthly income and expenses
 
