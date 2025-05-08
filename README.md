@@ -58,3 +58,6 @@ _Transaction Details
 
 3.Custom Visuals for advanced charts and interactivity
 
+##Final Conclusion
+
+The Wealth Compass Dashboard serves as a powerful personal finance tool, combining clarity and depth in financial analysis. With dynamic visuals and interactive filters, it enables users to monitor income trends, track spending habits, and make smarter financial decisions. This project not only demonstrates effective use of Power BI and DAX but also reflects a real-world application of data visualization to support everyday financial planning.
