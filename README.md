@@ -6,55 +6,55 @@ A comprehensive Power BI dashboard designed to track personal income, expenses, 
 
 _Overview Section
 
-Credit Balance & Checking Balance
+1.Credit Balance & Checking Balance
 
-Current vs Previous Month Income & Spending
+2.Current vs Previous Month Income & Spending
 
-Month-over-Month Comparison with percentage change indicators
+3.Month-over-Month Comparison with percentage change indicators
 
 🗕️Month-by-Month Breakdown
 
-Bar charts showing monthly income and expenses
+1.Bar charts showing monthly income and expenses
 
-Yearly comparison for long-term tracking
+2.Yearly comparison for long-term tracking
 
-Quick stats for Total Income and Total Spending
+3.Quick stats for Total Income and Total Spending
 
 _Spending Breakdown
 
-Treemap for Spending by Category
+1.Treemap for Spending by Category
 
-Bar charts for Top Merchants and Favorite Restaurants
+2.Bar charts for Top Merchants and Favorite Restaurants
 
-Helps identify major spending areas
+3.Helps identify major spending areas
 
 _ Income Breakdown
 
-Pie chart visualization of Income by Category
+1.Pie chart visualization of Income by Category
 
-Detailed income sources list with frequency and amount
+2.Detailed income sources list with frequency and amount
 
 _Transaction Details
 
-Interactive filters (Spending and Income slicers)
+1.Interactive filters (Spending and Income slicers)
 
-Detailed table with:
+2.Detailed table with:
 
-Date
+  a Date
 
-Category
+  b Category
 
-Description
+  c Description
 
-Type (Income/Spending)
+3.Type (Income/Spending)
 
-Source
+4.Source
 
 ##Tools Used
 
-Power BI
+1.Power BI
 
-DAX for calculated metrics
+2.DAX for calculated metrics
 
-Custom Visuals for advanced charts and interactivity
+3.Custom Visuals for advanced charts and interactivity
 
